@@ -1,39 +1,56 @@
+# SQL Optimization & Database Troubleshooting Portfolio
 
-# Database Troubleshooting Portfolio (SQL / MySQL)
+## 🚀 About Me
 
-This repository showcases real-world database issues and how they are solved in practical systems.
+I am a Database-focused Engineer with 5 years of experience in manufacturing systems (LiteOn, Pegatron).
 
-## Case Studies
+I specialize in:
 
-### 1. SQL Query Optimization
+* SQL performance optimization
+* Debugging slow queries
+* Fixing data integrity issues
+* Handling database concurrency problems
 
-* Reduced query time from ~5s to 0.2s
-* Eliminated full table scan
-* Improved API performance
+---
+
+## 💼 What I Can Help You With
+
+* Slow SQL queries (10s → <1s)
+* Duplicate or inconsistent data
+* Deadlocks / locking issues
+* Database performance tuning
+
+---
+
+## 📊 Case Studies
+
+### 1. SQL Optimization
+
+* Reduced query execution time from 12s → 0.8s
+* Used indexing and query refactoring
 
 ### 2. Deadlock Resolution
 
-* Identified circular locking issue
-* Fixed by enforcing consistent transaction order
-* Improved system stability
+* Identified conflicting transactions
+* Applied consistent locking order
 
-### 3. Data Integrity Issue
+### 3. Data Integrity (Duplicate Records)
 
-* Fixed duplicate data problem
-* Implemented unique constraints
+* Detected duplicate user data
+* Cleaned dataset
+* Added UNIQUE constraint to prevent future issues
 
-## Skills Demonstrated
+---
 
-* SQL Optimization
-* Performance Tuning
-* Transaction Management
-* Debugging Production Issues
+## 🛠 Tools & Skills
 
-## Focus
+* MySQL / SQL Server
+* Indexing / Execution Plan
+* Transactions & Locking
+* Query Optimization
 
-This portfolio focuses on solving real database problems, not just writing queries.
+---
 
-## Technologies
+## 📩 Contact
 
-* MySQL
-* SQL
+Available for freelance & remote work (Upwork / direct contract)
